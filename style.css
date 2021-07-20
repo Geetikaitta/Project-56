@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background: linear-gradient(134deg, rgba(175,253,255,1) 0%, rgba(248,170,255,1) 49%, rgba(255,163,219,1) 76%); 
+}
+
+p{
+    font-size: 20;
+    font-family: 'Qahiri', sans-serif;
+}
